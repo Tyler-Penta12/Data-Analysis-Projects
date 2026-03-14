@@ -37,4 +37,4 @@ A portfolio of data analysis projects applying Excel, Python, and statistical mo
 ---
 
 ## Skills
-Excel | Python (Pandas, NumPy, Matplotlib) | Statistical Analysis | Data Visualization | Jupyter Notebook
+Excel | Python (Pandas, NumPy, Matplotlib) | Statistical Analysis | Data Visualization | Jupyter Notebook | SQL | Tableau
