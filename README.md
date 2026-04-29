@@ -34,6 +34,15 @@ A portfolio of data analysis projects applying Excel, Python, and statistical mo
 - Performed univariate regression on 8,900+ individuals finding each additional year of education significantly increases annual income (p < 0.05)
 - Created binary variables for gender and college completion to identify key income predictors
 
+## Intel Energy Grid Analysis
+**Tools:** Tableau, Calculated Fields, Parameters, Dynamic Filtering  
+**Data:** Hourly U.S. energy generation data (2022) across all major fuel sources and regions  
+**Built for:** Intel via ASU's Global Career Accelerator  
+
+[View Dashboard on Tableau Public](https://public.tableau.com/views/Intel-Student_Tyler_Penta_FINAL/Dashboard)
+![Dashboard Preview](https://public.tableau.com/static/images/In/Intel-Student_Tyler_Penta_FINAL/Dashboard/1.png)
+
+
 ---
 
 ## Skills
